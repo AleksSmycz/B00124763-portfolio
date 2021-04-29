@@ -391,6 +391,10 @@ form {
 ul li a {
     display: inline-block;
 }
+a {
+    color: rgba(255,255,255,1.00);
+}
+
 
 
 
@@ -679,3 +683,4 @@ button:hover {
 	
 	
 }
+
